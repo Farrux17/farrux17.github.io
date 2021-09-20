@@ -15,7 +15,7 @@ header strong{
     font-weight: bold;
 }
 .view{
-    background: url('../images/sinf.jpg') center center /  cover;
+    background: url('./images/sinf.jpg') center center /  cover;
 }
 footer .fa-snapchat{
     background: rgb(66, 64, 64);
